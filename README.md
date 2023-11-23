@@ -15,7 +15,7 @@
   <img align= "center" alt= "htm15" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi1sousa&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi1sousa&hide_progress=true&theme=transparent)
 
 ### Meu perfil
 - 20 anos
